@@ -1,5 +1,4 @@
-### Hello! 👋 
-![gitfollow](/github/followers/:user?label=Follow)
+### Hello! 👋 ![gitfollow](https://img.shields.io/github/followers/darius0852?style=social)
 
 ##### Who I am
 
