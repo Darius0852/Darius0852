@@ -1,4 +1,4 @@
-### Heey 👋 🦖
+### Hello! 👋 /github/followers/:user?label=Follow
 
 ##### Who I am
 
