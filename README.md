@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Darius0852/Darius0852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Who I am
 
-mobile developer/electrical engineer graduate with a love for making apps and websites.
+mobile developer/electrical engineer graduate with a love for making functional apps and websites.
 
 ### What I know
 
 Javascript Typescript NodeJS ExpressJS MongoDB
+https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074
 
 
 
@@ -24,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
