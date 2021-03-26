@@ -2,7 +2,7 @@
 
 ##### Who I am
 
-Mobile Developer • Electrical Engineering Graduate (2021) • Founder & CTO of [TheoryOfMachines.com](https://www.theoryofmachines.com) (Under Construction)
+Mobile Developer • Electrical Engineering Graduate (2021) • Founder of [TheoryOfMachines.com](https://www.theoryofmachines.com) (Under Construction)
 
 ##### What I know
 
