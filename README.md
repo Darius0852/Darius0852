@@ -1,7 +1,5 @@
 ### Hello! 👋 
 
-![gitfollow](https://img.shields.io/github/followers/darius0852?style=social)
-
 ##### Who I am
 
 Mobile Developer • Electrical Engineering Graduate (2021) • Founder of [TheoryOfMachines.com](https://www.theoryofmachines.com) (Under Construction)
