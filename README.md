@@ -6,20 +6,18 @@ mobile developer/electrical engineer graduate with a love for making functional 
 
 ### What I know
 
-Javascript Typescript NodeJS ExpressJS MongoDB
-https://camo.githubusercontent.com/e05eaf8bb60da08c9b55036474c4e1f86a4c9ce6e3360d43cc97335309dba6b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303f266c6f676f3d4a617661536372697074
+Javascript Typescript NodeJS ExpressJS MongoDB <img src="https://emojis.slackmojis.com/emojis/images/1532555621/4296/mongodb.png?1532555621">
 
 
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a social media app for a startup.
+- 🌱 I’m currently learning MERN stack.
+- 👯 I’m looking to collaborate on apps.
+- 🤔 I’m looking for help with career advice.
+- 💬 Ask me about mobile app ideas and possibilities.
+- 📫 How to reach me: Darius0852@yahoo.co.uk
+- ⚡ Fun fact: I have two left feet. 
 
