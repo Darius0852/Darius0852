@@ -21,7 +21,7 @@ Mobile Developer • Electrical Engineering Masters Graduate (2021)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 
-##### Currently working on iOS social media App for a startup.
+##### Currently working on iOS social media App for a local startup.
 ##### Currently learning the MERN stack.
 
 _Feel free to follow my GitHub profile or to contact me via [LinkedIn](https://www.linkedin.com/in/dariusghomashchian/) / [Email](Darius0852@yahoo.co.uk)._
