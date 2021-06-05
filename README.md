@@ -2,7 +2,7 @@
 
 ##### Who I am
 
-Mobile Developer • Electrical Engineering Graduate (2021) • 
+Mobile Developer • Electrical Engineering Masters Graduate (2021)
 
 ##### What I know
 
