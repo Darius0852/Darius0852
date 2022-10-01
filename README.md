@@ -2,10 +2,12 @@
 
 ##### Who I am
 
-Mobile Developer • Electrical Engineering Masters Graduate (2021)
+Intelligent Automation Consultant • Electrical Engineering Masters Graduate (2021)
 
 ##### What I know
 
+
+![JavaScript](https://img.shields.io/badge/-Appian-000?&logo=Appian)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
@@ -21,7 +23,7 @@ Mobile Developer • Electrical Engineering Masters Graduate (2021)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 
-##### Currently working on iOS social media App for a local startup.
+##### Currently working as an Appian Dev in London.
 ##### Currently learning the MERN stack.
 
 _Feel free to follow my GitHub profile or to contact me via [LinkedIn](https://www.linkedin.com/in/dariusghomashchian/) / [Email](Darius0852@yahoo.co.uk)._
