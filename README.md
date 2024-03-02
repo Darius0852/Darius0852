@@ -2,7 +2,7 @@
 
 ##### Who I am
 
-Intelligent Automation Consultant • Electrical Engineering Masters Graduate (2021)
+Software Engineer
 
 ##### What I know
 
